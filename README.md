@@ -1,5 +1,5 @@
 <h1 align="center">Yo 👋, I'm Dustin</h1>
-<h3 align="center">I'm a Frontend Engineer. I graduated with a Computer Science & Information Systems degree. I'm a passionate developer who's always trying to learn more information and become a better programmer. I love collaborating and want to keep creating awesome designs/projects for a great user-friendly experience.</h3>
+<h3 align="center">I'm a Frontend Engineer. I graduated with a Computer Science degree. I'm a passionate developer who's always trying to learn more information and become a better programmer. I love collaborating and want to keep creating awesome designs/projects for a great user-friendly experience.</h3>
 
 - 👨‍💻 My Projects [https://www.dustinmsoos.com/](https://www.dustinmsoos.com/)
 
